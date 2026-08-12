@@ -3,12 +3,12 @@ const AFTER_MAP = `<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!
 
 const PHOTOS = [
   "0plo2713.webp",
-  "0plo2719.webp",
-  "0plo2733.webp",
-  "0plo2812.webp",
-  "0plo2830.webp",
-  "boat_sunflower.webp",
   "chair_wink.webp",
+  "0plo2733.webp",
+  "0plo2830.webp",
+  "line_4.webp",
+  "boat_sunflower.webp",
+  "line_1.webp",
   "field_sit.webp",
   "field_flowers.webp",
   "field_lift.webp",
