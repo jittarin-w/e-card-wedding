@@ -16,7 +16,7 @@ const PHOTOS = [
 
 const THEME_COLORS = [
   { name: "PANTONE", color: "#B9D0E6" },
-  { name: "Sage Green", color: "#678583" },
+  { name: "Rookwood Jade", color: "#989F7F" },
   { name: "Navy Blue", color: "#354D73" },
 ];
 
