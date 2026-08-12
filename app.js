@@ -222,7 +222,7 @@ function renderHome() {
         <h1 class="hero-title">Jittarin Wongnangsue & Sirikanya Somsri</h1>
         <div class="hero-meta">
           <div class="meta-item"><span>Date</span><strong>05 December 2026</strong></div>
-          <div class="meta-item"><span>Time</span><strong>09:00 onwards</strong></div>
+          <div class="meta-item"><span>Time</span><strong>09:00 เริ่มเข้างาน</strong></div>
           <div class="meta-item"><span>Venue</span><strong>โบสถ์กลางน้ำมหาวิทยาลัยพายัพเชียงใหม่</strong></div>
         </div>
         <div class="action-row">
@@ -266,9 +266,9 @@ function renderHome() {
         <h2 class="section-title reveal">กำหนดการคร่าว ๆ</h2>
         <div class="timeline">
           ${[
-            ["09:00", "เริ่มเข้างาน", "ลงทะเบียน ต้อนรับแขก และถ่ายภาพร่วมกัน"],
-            ["10:00", "เริ่มพิธีการ", "เริ่มพิธีสำคัญของคู่บ่าวสาว"],
-            ["11:30", "เริ่มรับประทานอาหาร", "ร่วมรับประทานอาหารและพูดคุยในบรรยากาศอบอุ่น"],
+            ["09:00 AM", "เริ่มเข้างาน", "ลงทะเบียน ต้อนรับแขก และถ่ายภาพร่วมกัน"],
+            ["10:00 AM", "เริ่มพิธีการ", "เริ่มพิธีสำคัญทางศาสนา"],
+            ["11:30 AM", "เริ่มรับประทานอาหาร", "ร่วมรับประทานอาหารและพูดคุยในบรรยากาศอบอุ่น"],
           ]
             .map(
               ([time, title, detail]) => `
